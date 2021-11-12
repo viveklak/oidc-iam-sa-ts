@@ -1,0 +1,13 @@
+{
+  "name": "oidc-iam-sa-ts",
+  "devDependencies": {
+    "@types/node": "^8.0.0"
+  },
+  "dependencies": {
+    "@pulumi/pulumi": "^3.0.0",
+    "@pulumi/random": "^4.0.0",
+    "@pulumi/aws": "^4.0.0",
+    "@pulumi/eks": "^0.34.0",
+    "@pulumi/aws-native": "latest"
+  }
+}
